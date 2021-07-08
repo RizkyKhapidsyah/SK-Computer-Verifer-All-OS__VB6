@@ -1,0 +1,123 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINNT\system32\wbemdisp.tlb=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Settings.ini=
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Data.dat=
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Drives.dat=
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Memory.dat=
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\OS.dat=
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Processor.dat=
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Adapter.dat=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\CS_Client.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\wbemdisp.tlb=Yes
+C:\WINNT\system32\MSWINSCK.OCX=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Settings.ini=Yes
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Data.dat=Yes
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Drives.dat=Yes
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Memory.dat=Yes
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\OS.dat=Yes
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Processor.dat=Yes
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Adapter.dat=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\CS_Client.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\wbemdisp.tlb=$(WinSysPath)
+C:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Settings.ini=$(AppPath)
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Data.dat=$(AppPath)
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Drives.dat=$(AppPath)
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Memory.dat=$(AppPath)
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\OS.dat=$(AppPath)
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Processor.dat=$(AppPath)
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Adapter.dat=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\CS_Client.exe=No
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Settings.ini=No
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Data.dat=No
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Drives.dat=No
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Memory.dat=No
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\OS.dat=No
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Processor.dat=No
+D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Adapter.dat=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=CS Computer Verifier Client
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=CS Computer Verifier Client
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|CS Computer Verifier Client]
+Icon1=CS_Client.exe
+Title1=CS Computer Verifier Client
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Package
+ProjectFolder=D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client
+ServerSideCab=
+File1=D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Package\setup.exe
+File2=D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Package\Setup.Lst
+File3=D:\Projects\Current_Project\CS_Computer_Verifer_95_98_ME_NT_2000\Client\Package\CS_Client.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
