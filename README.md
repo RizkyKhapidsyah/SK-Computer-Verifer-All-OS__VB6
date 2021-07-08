@@ -1,5 +1,5 @@
 # SK-Computer-Verifer-All-OS__VB6
-Fundamental Pemrograman Visual Basic 6.0 - Studi Kasus; Computer Verifer All OS<br><br>
+Fundamental Pemrograman Visual Basic 6.0 - Studi Kasus; Computer Verifer All OS by DeI3oe@aol.com & One Computer Software<br><br>
 ### Client
 <img src="https://github.com/RizkyKhapidsyah/SK-Computer-Verifer-All-OS__VB6/blob/main/Client/result/001.PNG"><br><br>
 Lihat Source Code : <br>
